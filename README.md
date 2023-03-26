@@ -7,8 +7,9 @@ This is an open source project to build an LMS (learning management system) appl
 
 - Use microservices
 - Do not use Java, use nodejs or python to build the microservices layer (just for fun)
-- Do not use ReactJS, Angular or VS for frontend layer. Lets build this application with a new framework.
+- Do not use ReactJS, Angular or Vue JS for frontend layer. Lets build this application with a new framework.
 - Use unit testing and TDD based approach
+- Create an devops pipeline for future contributers
 - Start with a well defined domain model
 - Use observability, so that application can be monitored using OpenTelemetry
 - Use an headless cms for defining contents
